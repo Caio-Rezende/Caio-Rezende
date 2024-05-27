@@ -1,5 +1,7 @@
-## Hi there 👋
+## Caio here! Nice to meet y'all! 🧑‍💻👪
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Caio-Rezende&show_icons=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Rezende)
 <!--
 **Caio-Rezende/Caio-Rezende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
