@@ -1,22 +1,38 @@
 ## Caio here! Nice to meet y'all! 🧑‍💻👪
 
 Pronounced like Kyle, I am currently on remote work from BR - GO - Goiânia.
+
 I am a professor, a researcher and a programmer.
+
 I love what I do and have people that depends on me, professionaly and personally, so I am always commited to my projects.
+
 Let's do our best and maybe connect somewhere in between our goals.
 
 
 ## Languages
 
-. TypeScript / JavaScript
-. Dart
-. Python
-. PHP
-. SQL
-. Java
-. C# / C / C++
-. GraphQL
-. Solidity
+- TypeScript / JavaScript
+- Dart
+- Python
+- PHP
+- SQL
+- C# / C / C++
+- HTML / XML / YAML
+- Shell Scripting (bash, powershell)
+- Java
+- GraphQL
+- Solidity
+
+
+## Interests
+
+- AI
+- Blockchain
+- WebDev
+- MLOps
+- DevOps
+- DS
+- SPA
 
 
 <!--
