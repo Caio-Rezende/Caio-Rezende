@@ -1,7 +1,24 @@
 ## Caio here! Nice to meet y'all! 🧑‍💻👪
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Caio-Rezende&show_icons=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Rezende&count_private=true)
+Pronounced like Kyle, I am currently on remote work from BR - GO - Goiânia.
+I am a professor, a researcher and a programmer.
+I love what I do and have people that depends on me, professionaly and personally, so I am always commited to my projects.
+Let's do our best and maybe connect somewhere in between our goals.
+
+
+## Languages
+
+. TypeScript / JavaScript
+. Dart
+. Python
+. PHP
+. SQL
+. Java
+. C# / C / C++
+. GraphQL
+. Solidity
+
+
 <!--
 **Caio-Rezende/Caio-Rezende** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
